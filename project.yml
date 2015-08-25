@@ -1,0 +1,59 @@
+_prefs: 
+  baselayer: ''
+  mapid: planemad.ea7775ad
+  saveCenter: false
+_properties: 
+  bridge: 
+    "group-by": layer
+attribution: Vruksha
+bounds: 
+  - -180
+  - -85.0511
+  - 180
+  - 85.0511
+center: 
+  - 77.587
+  - 12.9245
+  - 16
+description: Trees in Jayanagar
+format: "png8:m=h:c=128"
+interactivity_layer: ''
+layers: 
+  - landcover
+  - landuse
+  - hillshade
+  - waterway
+  - water
+  - aeroway
+  - barrier_line
+  - building
+  - landuse_overlay
+  - tunnel
+  - road
+  - bridge
+  - admin
+  - boundaries-claimed
+  - boundaries-disputed
+  - ward_trees
+  - country_label_line
+  - country_label
+  - marine_label
+  - state_label
+  - place_label
+  - water_label
+  - poi_label
+  - road_label
+  - waterway_label
+  - housenum_label
+maxzoom: 22
+minzoom: 8
+name: Vruksha Tree Mapping
+source: "mapbox:///mapbox.mapbox-terrain-v2,mapbox.mapbox-streets-v6,planemad.bb1ba8b5,planemad.kuh5v95l"
+styles: 
+  - vars.mss
+  - bg.mss
+  - labels.mss
+  - roads.mss
+  - pois.mss
+  - data.mss
+template: ''
